@@ -60,7 +60,7 @@ The application uses a MySQL database with the following structure:<br>
 1. Clone the repository to your local machine.
 
 ```
-git clone 
+git clone https://github.com/Tanvir-Mahamood/Personal-Notes-Web-Application.git
 ```
 
 2. Navigate to the project directory.
