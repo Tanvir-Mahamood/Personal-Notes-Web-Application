@@ -79,6 +79,9 @@ cd personal-notes-app
 - Search and Filter: Enhancing the notes management with advanced search and filtering options.
 - Password recovery system.
 
+## 📄 License
+This project is open source and available under the [MIT License](LICENSE).
+
 ## Contributor:
 Contributor: tanvir Mahamood. <br>
 Email: `deltatanvir2002@gmail.com`
